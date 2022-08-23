@@ -1,3 +1,4 @@
+
 <h1 align="center"> Bem-vindo! 🎉 Eu sou Eduarda Pontel 👩🏻 </h1>
 
 <br>
@@ -34,7 +35,6 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="right" alt="Gif" height="130" style="border-radius:50px;" src="https://raw.githubusercontent.com/eduardapontel/eduardapontel/main/me.gif">
 </div>
   
   ##
