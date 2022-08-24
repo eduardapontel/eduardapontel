@@ -46,4 +46,4 @@
 <a href="https://instagram.com/eduarda.pontel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduarda.pontel" height="30" width="40" /></a>
 </p>
  
-  ![Snake animation](https://github.com/eduardapontel/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardapontel/eduardapontel/blob/output/github-contribution-grid-snake.svg)
