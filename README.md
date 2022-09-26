@@ -42,7 +42,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eduarda-pontel-2a8675219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduarda-pontel-2a8675219" height="30" width="40" /></a>
-<a href="https://discord.gg/𝙳𝚞𝚍𝚊#5370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝙳𝚞𝚍𝚊#5370" height="30" width="40" /></a>
 <a href="https://instagram.com/eduarda.pontel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduarda.pontel" height="30" width="40" /></a>
 </p>
  
