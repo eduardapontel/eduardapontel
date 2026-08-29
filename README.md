@@ -26,7 +26,7 @@
 <div>
     <a href="https://www.linkedin.com/in/eduarda-pontel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo"/></a>
     &nbsp;
-    <a href="https://discord.com/invite/bZAJjxh8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord logo"/></a>
+    <a href="https://discord.com/users/760716473492176937" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord logo"/></a>
     &nbsp;
     <a href="https://api.whatsapp.com/send?phone=4915151470266&text=Hello,%20Eduarda%20:)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="whatsapp logo"/></a>
      &nbsp;
