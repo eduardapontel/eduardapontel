@@ -4,11 +4,11 @@
  
 - 🔭 **Studying** and **developing** projects 
   
-- 🌱 I’m currently learning **React** and **NodeJS**
+- 🌱 I’m currently studying **PHP** 
 
 - 🌎 I'm a native **Portuguese** speaker, fluent in **English** and learning **German**
 
-- 🏠 I'm from **Brazil** but I'm currently living in the **UK**
+- 🏠 I'm from **Brazil** but I'm currently living in **Germany**
 
 - 👨‍💻 All of my **projects** are available [here](https://github.com/eduardapontel?tab=repositories)
 
@@ -24,11 +24,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-    <a href="https://www.linkedin.com/in/eduarda-pontel/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"/></a>
+    <a href="https://www.linkedin.com/in/eduarda-pontel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo"/></a>
     &nbsp;
-    <a href="https://discord.com/invite/bZAJjxh8" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"/></a>
+    <a href="https://discord.com/invite/bZAJjxh8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord logo"/></a>
     &nbsp;
-    <a href="https://api.whatsapp.com/send?phone=447508791834&text=Hello,%20Eduarda%20:)" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" alt="whatsapp logo"/></a>
+    <a href="https://api.whatsapp.com/send?phone=4915151470266&text=Hello,%20Eduarda%20:)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="whatsapp logo"/></a>
+     &nbsp;
+    <a href="mailto:eduardapontel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="mail logo"/></a>
+    
+ 
 </div>
 
 <br>
