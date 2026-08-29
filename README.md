@@ -28,12 +28,6 @@
     &nbsp;
     <a href="https://discord.com/invite/bZAJjxh8" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"/></a>
     &nbsp;
-    <a href="https://www.youtube.com/channel/UCY0Bh8fV0Ke9oW8t_TiWGjQ" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="30" alt="youtube logo"/></a>
-    &nbsp;
-    <a href="https://www.instagram.com/eduarda.pontel/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="30" alt="instagram logo"/></a>
-    &nbsp;
-    <a href="https://www.facebook.com/eduarda.pontel.sz/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="30" alt="facebook logo"/></a>
-    &nbsp;
     <a href="https://api.whatsapp.com/send?phone=447508791834&text=Hello,%20Eduarda%20:)" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" alt="whatsapp logo"/></a>
 </div>
 
